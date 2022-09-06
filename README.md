@@ -1,4 +1,5 @@
-# pandoraMarketPlace
+# Pandora Market Place
+
 Citation: 
 
 anders94, “Blockchain 101 - A Visual Demo,” YouTube, 05-Nov-2016. [Online]. Available: https://www.youtube.com/watch?v=_160oMzblY8. [Accessed: 02-Sep-2022]. 
